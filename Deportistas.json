@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "61d7214433c9f0547630c55c"
+  },
+  "Nombres": "Juan",
+  "Apellidos": "Gomez ",
+  "Edad": 20,
+  "Cedula": 1004105789,
+  "Equipo": "Indestructibles",
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Soacha"
+},
+{
+  "_id": {
+    "$oid": "61d721be33c9f0547630c55d"
+  },
+  "Nombres": "Luis ",
+  "Apellidos": "Gutierrez",
+  "Edad": 21,
+  "Cedula": {
+    "$numberLong": "10010337890"
+  },
+  "Equipo": "Dulce Cacao",
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Bogota"
+},
+{
+  "_id": {
+    "$oid": "61d7846df5563ceee5822cfb"
+  },
+  "Nombres": "Sebastian",
+  "Apellidos": "Ruiz",
+  "Edad": 23,
+  "Cedula": 1004254555,
+  "Equipo": "Indestructibles",
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Soacha"
+},
+{
+  "_id": {
+    "$oid": "61d7847df5563ceee5822cfc"
+  },
+  "Nombres": "Brayan",
+  "Apellidos": "Garcia ",
+  "Edad": 22,
+  "Cedula": 1025647899,
+  "Equipo": "Dulce Cacao",
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Bogota"
+},
+{
+  "_id": {
+    "$oid": "61d7859ff5563ceee5822cfe"
+  },
+  "Nombres": "David",
+  "Apellidos": "Rivera ",
+  "Edad": 21,
+  "Cedula": 1001044860,
+  "Equipo": "Indestructibles",
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Soacha"
+}]

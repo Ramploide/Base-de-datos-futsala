@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "61d71e0d33c9f0547630c55a"
+  },
+  "Nombres": "Duvan Leonardo",
+  "Apellidos": "Otalolra Rocha",
+  "Edad": 22,
+  "Cedula": 1002345678,
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "61d71ed833c9f0547630c55b"
+  },
+  "Nombres": "Yojan",
+  "Apellidos": "Molina",
+  "Edad": 24,
+  "Cedula": 454334535,
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "61d783c2f5563ceee5822cf9"
+  },
+  "Nombres": "Miguel Antonio",
+  "Apellidos": "loren",
+  "Edad": 30,
+  "Cedula": 1001044567,
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "61d783e7f5563ceee5822cfa"
+  },
+  "Nombres": "Sebastian",
+  "Apellidos": "orbita",
+  "Edad": 25,
+  "Cedula": 1020504030,
+  "Nacionalidad": "Colombiano"
+}]
