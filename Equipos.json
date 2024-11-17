@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "61d74d8233c9f0547630c563"
+  },
+  "Nombre": "Dulce cacao",
+  "Ciudad": "Bogota",
+  "Año": 2022
+},
+{
+  "_id": {
+    "$oid": "61d74da233c9f0547630c564"
+  },
+  "Nombre": "Indestructibles",
+  "Ciudad": "Soacha",
+  "Año": 2020
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61d74c9833c9f0547630c561"
+  },
+  "Nombres": "Juan",
+  "Apellidos": "Guarnizo",
+  "Edad": 27,
+  "Cedula": 30793465,
+  "Equipo": "Dulce Cacao",
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "61d74ced33c9f0547630c562"
+  },
+  "Nombres": "Fernando",
+  "Apellidos": "Lopez",
+  "Edad": 26,
+  "Cedula": 80009764,
+  "Equipo": "Los indestructibles",
+  "Nacionalidad": "Colombiano"
+}]
